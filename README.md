@@ -7,13 +7,16 @@ This repo is for distribution on bower.
 
 Install with Bower:
 
-  ``` bower install levo-design-style```
+  ```console
+  bower install levo-design-style
+  ```
 
-Add two ```<script>``` tags to your index.html:
+Add the style tags to your index.html:
 
-  ``` <link rel="stylesheet" href="bower_components/levo-design-style/css/helper.css" />```
-  
-  ``` <link rel="stylesheet" href="bower_components/levo-design-style/css/style.css" />```
+  ```html
+  <link rel="stylesheet" href="bower_components/levo-design-style/css/helper.css" />
+  <link rel="stylesheet" href="bower_components/levo-design-style/css/style.css" />
+  ```
 
 
 

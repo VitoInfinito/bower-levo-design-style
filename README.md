@@ -11,9 +11,9 @@ Install with Bower:
 
 Add two ```<script>``` tags to your index.html:
 
-  ``` <link rel="stylesheet" src="bower_components/levo-design-style/css/helper.css" />```
+  ``` <link rel="stylesheet" href="bower_components/levo-design-style/css/helper.css" />```
   
-  ``` <link rel="stylesheet" src="bower_components/levo-design-style/css/style.css" />```
+  ``` <link rel="stylesheet" href="bower_components/levo-design-style/css/style.css" />```
 
 
 

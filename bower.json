@@ -1,0 +1,5 @@
+{
+    "name": "levo-design-style",
+    "version": "1.0.0",
+    "main": ["./css/helper.css", "./css/style.css"]
+}

@@ -1,5 +1,8 @@
 {
     "name": "levo-design-style",
-    "version": "1.0.0",
-    "main": ["./css/helper.css", "./css/style.css"]
+    "version": "1.0.1",
+    "main": ["./css/helper.css", "./css/style.css"],
+    "dependencies": {
+		"jquery-ui": ">=1.11.4"
+	}
 }
